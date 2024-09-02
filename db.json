@@ -1,0 +1,40 @@
+{
+  "shoes": [
+    {
+      "id": 1,
+      "title": "Indoor Plant",
+      "description": "A small, low-maintenance indoor plant perfect for home or office.",
+      "price": 400.99
+    },
+    {
+      "id": 2,
+      "title": "Outdoor Plant",
+      "description": "A robust outdoor plant that thrives in direct sunlight.",
+      "price": 125.99
+    },
+    {
+      "id": 3,
+      "title": "Flowering Plant",
+      "description": "A beautiful flowering plant that adds a splash of color to any garden.",
+      "price": 122.99
+    },
+    {
+      "id": 4,
+      "title": "Fruiting Plant",
+      "description": "A fruiting plant that yields fresh produce, perfect for the backyard.",
+      "price": 99.99
+    },
+    {
+      "id": 5,
+      "title": "Succulent",
+      "description": "A trendy succulent plant that requires minimal water and care.",
+      "price": 9.99
+    },
+    {
+      "id": 6,
+      "title": "Herb Plant",
+      "description": "A versatile herb plant that can be used in cooking or as a natural remedy.",
+      "price": 7.99
+    }
+  ]
+}

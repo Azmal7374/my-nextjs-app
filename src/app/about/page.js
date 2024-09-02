@@ -1,8 +1,14 @@
-import styles from './About.module.css'
+
+
+export const metadata = {
+    title: "About page",
+    description: "This is about page",
+  };
+
 const AboutPage = () => {
     return (
         <div>
-            <h1 className={styles.heading}>This is About Page</h1>
+            <h1 className="text-center text-4xl mt-20">This is About Page</h1>
         </div>
     );
 };
